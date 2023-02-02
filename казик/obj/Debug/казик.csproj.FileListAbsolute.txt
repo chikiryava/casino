@@ -1,0 +1,11 @@
+C:\Users\chiki\source\repos\казик\казик\bin\Debug\казик.exe.config
+C:\Users\chiki\source\repos\казик\казик\bin\Debug\казик.exe
+C:\Users\chiki\source\repos\казик\казик\bin\Debug\казик.pdb
+C:\Users\chiki\source\repos\казик\казик\obj\Debug\казик.csproj.AssemblyReference.cache
+C:\Users\chiki\source\repos\казик\казик\obj\Debug\казик.csproj.SuggestedBindingRedirects.cache
+C:\Users\chiki\source\repos\казик\казик\obj\Debug\казик.Form1.resources
+C:\Users\chiki\source\repos\казик\казик\obj\Debug\казик.Properties.Resources.resources
+C:\Users\chiki\source\repos\казик\казик\obj\Debug\казик.csproj.GenerateResource.cache
+C:\Users\chiki\source\repos\казик\казик\obj\Debug\казик.csproj.CoreCompileInputs.cache
+C:\Users\chiki\source\repos\казик\казик\obj\Debug\казик.exe
+C:\Users\chiki\source\repos\казик\казик\obj\Debug\казик.pdb
